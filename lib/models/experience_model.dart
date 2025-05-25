@@ -55,9 +55,15 @@ class Jproject {
   final Color color;
 
   final String company;
+  final String image1;
+  final String image2;
 
   Jproject({
+
     required this.color,
+    required this.image1,
+    required this.image2,
+
 
     required this.title,
     required this.company,

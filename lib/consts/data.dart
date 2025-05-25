@@ -278,6 +278,9 @@ final List<JobExperience> jobExperiences = [
 final List<Jproject> jProject = [
 
   Jproject(
+    image1: 'assets/icons/gr1.jpg',
+    image2: 'assets/icons/gr2.jpg',
+
     color: Colors.red,
     title: 'OPEN EYE',
     company: "I, have developed a graduation project application called Open Eye, a smart assistant designed to help visually impaired individuals interact with the world around them using AI, voice commands, and real-time camera recognition. Key Features of the App: Voice Interaction: The app is fully controlled by voice. Users can navigate and perform actions by speaking simple commands. Object and Person Recognition: Using AI and the devices camera the app can detect and describe objects, faces, and environments in front of the user. Facial Identification: The app can recognize and remember faces. When it detects a known person, it says their name out loud. Color Detection: The app tells the user the color of an object or clothing item in front of them. Direction Guidance: The app gives navigation hints like “go right,” “go left,” or “stop,” helping the user move safely. Smart Notes: Users can save voice notes and listen to them later. Video Call for Help: The app includes a video call feature so the user can connect with a caregiver or helper when needed. Technology Used: The app was developed using Flutter for cross-platform mobile support, and it integrates AI technologies for face and object recognition, speech-to-text, and text-to-speech functionalities. This project showcases my skills in AI integration, real-time processing, accessibility design, and mobile development. Open Eye aims to enhance the independence and quality of life for blind and visually impaired users.",
@@ -287,30 +290,8 @@ final List<Jproject> jProject = [
     ],
   ),
   Jproject(
-    color: Colors.red,
-    title: 'Shop app',
-    company: ' Shop Application using Flutter. The app is designed to provide a simple and user-friendly shopping experience. It allows users to browse products, view product details, add items to a shopping cart, and proceed to checkout. The application includes features such as: Product listing and categories Product details with images and descriptions Shopping cart management Search and filtering options A clean and responsive UI for both Android and iOS The app was built using Flutter and Dart, ensuring smooth performance and cross-platform compatibility. This project reflects my skills in mobile development, UI design, and state management in Flutter. ',
-    bulletPoints: [
-      "Flutter",
-    ],
-  ),
-  Jproject(
-    color: Colors.red,
-    title: 'Social-app',
-    company: ' Social Media Application using Flutter. The app is designed to connect users by allowing them to share posts, interact with others, and build an online community. The main features of the app include: User authentication (sign up / login) Profile creation and editing Posting text, images, and media Liking and commenting on posts Friend/follow system Real-time updates using Firebase (if applicable) Modern and responsive UI design This app demonstrates my skills in mobile development, backend integration (e.g., Firebase or REST APIs), state management, and building interactive user interfaces using Flutter and Dart',
-    bulletPoints: [
-      "Flutter",
-    ],
-  ),
-  Jproject(
-    color: Colors.red,
-    title: 'Random Weather Generator ',
-    company: "Random Weather Generator application that provides detailed weather information based on the user's input. By simply entering the name of a country or city, the app generates complete weather data, including:Temperature Weather condition (sunny, rainy, cloudy, etc.) Humidity Wind speed and direction Atmospheric pressure Sunrise and sunset times",
-    bulletPoints: [
-      "Flutter ",
-    ],
-  ),
-  Jproject(
+    image1: 'assets/icons/wec1.jpg',
+    image2: 'assets/icons/wec2.jpg',
     color: Colors.red,
     title: ' We care',
     company: '  Medical flutter app using api .net and community for patient and doctor ',
@@ -319,8 +300,42 @@ final List<Jproject> jProject = [
 
     ],
   ),
+  Jproject(
+    image2: 'assets/icons/gh1.jpg',
+    image1: 'assets/icons/gh2.jpg',
+    color: Colors.red,
+    title: 'Shop app',
+    company: ' Shop Application using Flutter. The app is designed to provide a simple and user-friendly shopping experience. It allows users to browse products, view product details, add items to a shopping cart, and proceed to checkout. The application includes features such as: Product listing and categories Product details with images and descriptions Shopping cart management Search and filtering options A clean and responsive UI for both Android and iOS The app was built using Flutter and Dart, ensuring smooth performance and cross-platform compatibility. This project reflects my skills in mobile development, UI design, and state management in Flutter. ',
+    bulletPoints: [
+      "Flutter",
+    ],
+  ),
+  Jproject(
+    image2: 'assets/icons/so1.jpg',
+    image1: 'assets/icons/so2.jpg',
+
+    color: Colors.red,
+    title: 'Social-app',
+    company: ' Social Media Application using Flutter. The app is designed to connect users by allowing them to share posts, interact with others, and build an online community. The main features of the app include: User authentication (sign up / login) Profile creation and editing Posting text, images, and media Liking and commenting on posts Friend/follow system Real-time updates using Firebase (if applicable) Modern and responsive UI design This app demonstrates my skills in mobile development, backend integration (e.g., Firebase or REST APIs), state management, and building interactive user interfaces using Flutter and Dart',
+    bulletPoints: [
+      "Flutter",
+    ],
+  ),
+  Jproject(
+    image2: 'assets/icons/w1.PNG',
+    image1: 'assets/icons/w2.PNG',
+    color: Colors.red,
+    title: 'Random Weather Generator ',
+    company: "Random Weather Generator application that provides detailed weather information based on the user's input. By simply entering the name of a country or city, the app generates complete weather data, including:Temperature Weather condition (sunny, rainy, cloudy, etc.) Humidity Wind speed and direction Atmospheric pressure Sunrise and sunset times",
+    bulletPoints: [
+      "Flutter ",
+    ],
+  ),
+
 
   Jproject(
+    image1: 'assets/icons/g1.jpg',
+    image2: 'assets/icons/g2.jpg',
     color: Colors.red,
     title: ' Gust Survey',
     company: ' Survey flutter app with storing data locally and get all in Excel sheet This application is made for SteigenbergerAqua Magic Hotel Hurghada ',
@@ -330,6 +345,8 @@ final List<Jproject> jProject = [
     ],
   ),
   Jproject(
+    image2: 'assets/icons/s1.jpg',
+    image1: 'assets/icons/s2.jpg',
     color: Colors.red,
     title: ' encryption decryption app',
     company: 'Flutter App to demonstrate various encryption and decryption algorithms.  ',
@@ -342,6 +359,8 @@ final List<Jproject> jProject = [
 
 
   Jproject(
+    image1: 'assets/icons/gra1.png',
+    image2: 'assets/icons/gra2.png',
     color: Colors.red,
     title: 'C# graphics drawer',
     company: ' application using C# (C-Sharp) that functions as a basic drawing tool. The application allows users to draw geometric shapes such as lines, circles, and squares simply by entering voice commands or typing dimensions — for example, saying or typing the radius of a circle or the side length of a square.The application can interpret numeric input, draw shapes accordingly, and even rotate them based on a specified angle. It aims to make interacting with geometry more intuitive and user-friendly.',
@@ -350,6 +369,8 @@ final List<Jproject> jProject = [
     ],
   ),
   Jproject(
+    image1: 'assets/icons/logo.png',
+    image2: 'assets/icons/logo.png',
     color: Colors.red,
     title: 'Enterprise Network Security & IPSec VPN Implementation',
     company: '  Designed a secure network using Cisco Packet Tracer with VLAN segmentation, IPSec VPN, and ASA5505 firewall. Configured OSPF/EIGRP routing, Syslog & NTP servers, and DMZ & wireless zones for secure traffic management. This project demonstrates expertise in network security, VPNs, and firewall management.',
@@ -358,6 +379,8 @@ final List<Jproject> jProject = [
     ],
   ),
   Jproject(
+    image1: 'assets/icons/logo.png',
+    image2: 'assets/icons/logo.png',
     color: Colors.red,
     title: 'Weather generator RPA',
     company: '  Anywhere  and UIpath Applying user to enter data manually or using an Excel sheet with predefined weather data. I tackled this by implementing an input dialog that lets the user choose whether to input weather data or use the data from the Excel sheet. ',
@@ -367,6 +390,8 @@ final List<Jproject> jProject = [
     ],
   ),
   Jproject(
+    image1: 'assets/icons/logo.png',
+    image2: 'assets/icons/logo.png',
     color: Colors.red,
     title: ' Amazon lookup RPA ',
     company: '  Amazon lookup RPA Automation anywhere and UIpath This bot for search the best price of laptop in amazon abd bring it to user  ',

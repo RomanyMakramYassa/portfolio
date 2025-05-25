@@ -58,29 +58,42 @@ class Projects extends StatelessWidget {
                   //       borderRadius: BorderRadius.circular(100),
                   //       color: Colors.black),
                   // ),
-                  title: Row(
+                  title: Column(
                     children: [
-                      const SizedBox(
-                        width: 15,
-                      ),
-                      Container(
-                        width: 5,
-                        height: 5,
-                        decoration: BoxDecoration(
-                            borderRadius: BorderRadius.circular(100),
-                            color: Colors.black),
-                      ),
-                      const SizedBox(
-                        width: 10,
-                      ),
-                      Flexible(
-                        child: Text(
-                          bulletPoint,
-                          style: GoogleFonts.inter(
-                            fontSize: 12,
+                      Wrap(
+                        direction: Axis.horizontal,
+                        children: [
+                          Image.asset('${experience.image1}')
+                          ,
+                          Image.asset('${experience.image2}')
+                          ,
+                        ],
+                      )
+                      ,Row(
+                        children: [
+                          const SizedBox(
+                            width: 15,
                           ),
-                          maxLines: 3,
-                        ),
+                          Container(
+                            width: 5,
+                            height: 5,
+                            decoration: BoxDecoration(
+                                borderRadius: BorderRadius.circular(100),
+                                color: Colors.black),
+                          ),
+                          const SizedBox(
+                            width: 10,
+                          ),
+                          Flexible(
+                            child: Text(
+                              bulletPoint,
+                              style: GoogleFonts.inter(
+                                fontSize: 12,
+                              ),
+                              maxLines: 3,
+                            ),
+                          ),
+                        ],
                       ),
                     ],
                   ),
