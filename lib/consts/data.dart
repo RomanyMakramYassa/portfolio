@@ -449,7 +449,17 @@ const String resumeLink =
 const String email = "romany.makram.yassa@gmail.com";
 String introduction =
     "Welcome to my portfolio website, "
-    "I'm a Flutter Developer with experience in building high-quality cross-platform mobile applications using Flutter and Dart.\n I have a strong interest in clean architecture, UI/UX design, and delivering smooth user experiences.   \n In addition to app development, I have a background in Cybersecurity as a Security Operations Center (SOC) Analyst, with experience in threat monitoring, incident response, and using SIEM tools.  \n I'm also skilled in Robotic Process Automation (RPA) using tools like UiPath and Automation Anywhere, helping automate repetitive business processes efficiently.  \n Moreover, I have solid knowledge in general IT support and infrastructure, including networking basics, operating systems, virtualization, and scripting.  \n I'm passionate about technology and always eager to learn and explore new tools that can improve performance and security.   ";
+    "  I’m an IT Support Engineer with a strong focus on Cybersecurity, with hands-on experience in IT infrastructure, system administration, network troubleshooting, and end-user technical support.\n
+
+My technical experience includes Windows, Active Directory, Windows Server, TCP/IP, DNS, DHCP, VLANs, routers and switches, along with hardware and software troubleshooting.\n
+
+I also have a strong interest in Security Operations (SOC), with hands-on experience in SIEM tools such as Splunk and Graylog, Windows Event Log analysis, endpoint security, identity and access management, and basic incident response.\n
+
+I hold Cisco CyberOps Associate and CCNA certifications, along with cybersecurity training and practical security labs.\n
+
+I’m continuously developing my skills in threat detection, log analysis, incident investigation, and security operations, while building on my IT infrastructure background.\n
+
+I’m open to opportunities in IT Support, Technical Support, IT Operations, NOC, and Junior Cybersecurity/SOC roles.\n "
 
 const String playApps =
     "https://drive.google.com/drive/folders/1b-LaANJXnIk823Og5Irpjk_01mjiFSj3";
