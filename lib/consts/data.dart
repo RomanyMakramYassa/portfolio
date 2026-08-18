@@ -322,7 +322,7 @@ final List<Jproject> jProject = [
   Jproject(
     color: Colors.red,
     title: ' We care',
-    company: '  Medical flutter app using api .net and community for patient and doctor ',
+    company: '  Medical flutter appliation using api .net and community for patient and doctor ',
     bulletPoints: [
       "flutter",
 
