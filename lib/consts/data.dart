@@ -209,7 +209,7 @@ final List<JobExperience> jobExperiences = [
     location: "Minya, Egypt",
     title: 'IT Support',
     company: 'Delta',
-    startDate: 'May',
+    startDate: 'March 2025',
     endDate: 'Present',
     bulletPoints: [
       "
@@ -453,22 +453,21 @@ const String twitter = "https://x.com/RomanymYassa?t=Jpk3hp4gOCm3QRKCVE9X8g&s=09
 const String topMate = "https://www.facebook.com/share/1AS3FxmEjn/";
 const String WTs = "https://wa.me/201212406915";
 
-const String resumeLink =
-    "https://drive.google.com/file/d/1xJ6Gak2-IViGXFVzSGVdVGHMiE2XGHHX/view?usp=drivesdk";
+const String resumeLink = "https://drive.google.com/file/d/14VFFEPKz9fUfQyZS60hVU8nax36MXUbr/view?usp=drivesdk";
+    
 const String email = "romany.makram.yassa@gmail.com";
 String introduction =
     "Welcome to my portfolio website, "
-    "  I’m an IT Support Engineer with a strong focus on Cybersecurity, with hands-on experience in IT infrastructure, system administration, network troubleshooting, and end-user technical support
+    "  I am an IT Support Engineer with a strong focus on Cybersecurity, with hands-on experience in IT infrastructure, system administration, network troubleshooting, and end-user technical support
 
 My technical experience includes Windows, Active Directory, Windows Server, TCP/IP, DNS, DHCP, VLANs, routers and switches, along with hardware and software troubleshooting.
 
 I also have a strong interest in Security Operations (SOC), with hands-on experience in SIEM tools such as Splunk and Graylog, Windows Event Log analysis, endpoint security, identity and access management, and basic incident response.
 
 I hold Cisco CyberOps Associate and CCNA certifications, along with cybersecurity training and practical security labs.
+I am continuously developing my skills in threat detection, log analysis, incident investigation, and security operations, while building on my IT infrastructure background.
 
-I’m continuously developing my skills in threat detection, log analysis, incident investigation, and security operations, while building on my IT infrastructure background.
-
-I’m open to opportunities in IT Support, Technical Support, IT Operations, NOC, and Junior Cybersecurity/SOC Additional Experience:
+Iam open to opportunities in IT Support, Technical Support, IT Operations, NOC, and Junior Cybersecurity/SOC Additional Experience:
 I also have previous experience in Flutter/Dart mobile application development and Robotic Process Automation (RPA) using tools such as UiPath and Automation Anywhere. These experiences strengthened my problem-solving, automation, and software development skills."
 const String playApps =
     "https://drive.google.com/drive/folders/1b-LaANJXnIk823Og5Irpjk_01mjiFSj3";
